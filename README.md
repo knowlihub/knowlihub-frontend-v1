@@ -1,15 +1,15 @@
-# OpenConnect 
+# Knowlihub 
 
 ---
 
-Fronend of the OpenConnect Platform
+Fronend of the Knowlihub Platform
 
 ## Setup Development Environment
 
 1. Clone your forked repository
     ```
-    git clone https://github.com/USERNAME/openconnect-frontend-v1
-    cd openconnect-frontend-v1
+    git clone https://github.com/USERNAME/knowlihub-frontend-v1
+    cd knowlihub-frontend-v1
     ```
 2. Install all the dependencies
     ```
