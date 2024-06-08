@@ -8,8 +8,8 @@ Fronend of the Knowlihub Platform
 
 1. Clone your forked repository
     ```
-    git clone https://github.com/USERNAME/knowlihub-frontend-v1
-    cd knowlihub-frontend-v1
+    git clone https://github.com/USERNAME/knowlihub-frontend
+    cd knowlihub-frontend
     ```
 2. Install all the dependencies
     ```
